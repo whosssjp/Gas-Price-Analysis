@@ -1,4 +1,4 @@
-# Gas Price Analysis
+# Natural Gas Price Forecasting Using Linear Regression
 
 Built a Python-based natural gas price forecasting model using historical data. 
 
